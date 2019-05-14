@@ -1,0 +1,36 @@
+.header {
+  margin-top: 50px;
+}
+
+.contact {
+  margin-bottom: 50px;
+}
+
+/* Nav Bar */
+.navbar {
+  height: 3em;
+}
+
+.nav-link {
+  font-size: 1.3em;
+  margin-right: 1em;
+}
+
+/* Progress Bars */
+.progress {
+  margin-top: 5px; 
+}
+
+.skill_collection, .skill_chart {
+  margin: 10px;
+}
+
+.skill_collection > span {
+  display: inline-flex;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(255, 250, 236);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
