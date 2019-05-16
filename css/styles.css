@@ -34,3 +34,45 @@
   border-width: 1px;
   border-radius: 5px;
 }
+
+/* Hobbies */
+.reading {
+  background-image: url('../assets/images/book.JPG');
+  background-size: cover;
+}
+
+.games {
+  background-image: url('../assets/images/Chess.jpg');
+  background-size: cover;
+}
+
+.photography {
+  background-image: url('../assets/images/highway.JPG');
+  background-size: cover;
+}
+
+.programming {
+  background-image: url('../assets/images/laptop.jpg');
+  background-size: cover;
+}
+
+.music {
+  background-image: url('../assets/images/concert.jpg');
+  background-size: cover;
+}
+
+.gym {
+  background-image: url('../assets/images/gym.jpg');
+  background-size: cover;
+}
+
+
+.card-text, .card-title {
+  color:white;
+  text-shadow: rgb(0, 0, 0) 0px 0px 15px;
+}
+
+.card-text {
+  font-size: 1.2em;
+  height: 15em;
+}
