@@ -2,14 +2,14 @@
   margin-top: 50px;
 }
 
-.contact {
+.thanks {
   margin-bottom: 50px;
 }
 
 /* Nav Bar */
-.navbar {
+/* .navbar-expand-lg {
   height: 3em;
-}
+} */
 
 .nav-link {
   font-size: 1.3em;
@@ -37,12 +37,12 @@
 
 /* Hobbies */
 .reading {
-  background-image: url('../assets/images/book.JPG');
+  background-image: url('../assets/images/book.jpg');
   background-size: cover;
 }
 
 .games {
-  background-image: url('../assets/images/Chess.jpg');
+  background-image: url('../assets/images/chess.jpg');
   background-size: cover;
 }
 
@@ -74,5 +74,5 @@
 
 .card-text {
   font-size: 1.2em;
-  height: 15em;
+  min-height: 15em;
 }
